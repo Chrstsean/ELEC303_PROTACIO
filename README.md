@@ -9,4 +9,5 @@ This Activity contains a information or data that you want to know about penguin
 ### [ACTIVITY 2 - UK ACCIDENT](https://github.com/Chrstsean/ELEC303_PROTACIO/blob/main/ELEC303_3C/PROTACIO/Activity2.ipynb)
 This is a data about the accuracy of accidents in UK's
 
-### [MIDTERMS EXAM - CHICAGO CRIMES]
+### [MIDTERMS EXAM - CHICAGO CRIMES](https://github.com/Chrstsean/ELEC303_PROTACIO/blob/main/ELEC303_3C/PROTACIO/MIDTERMS_EXAM.ipynb)
+This Dataset i use to identify the crimes what type of crimes where it located.
