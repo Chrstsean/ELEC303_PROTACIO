@@ -12,6 +12,7 @@ This is a data about the accuracy of accidents in UK's
 ### [MIDTERMS EXAM - CHICAGO CRIMES](https://github.com/Chrstsean/ELEC303_PROTACIO/blob/main/ELEC303_3C/PROTACIO/MIDTERMS_EXAM.ipynb)
 This Dataset i use to identify the crimes what type of crimes where it located.
 <hr>
+
 ### [PROJECT 3 - DENGUE CASES](https://github.com/Chrstsean/ELEC303_PROTACIO/blob/main/ELEC303_3C/PROTACIO/PROJECT3.ipynb)
 
 ### [Assignment - Predicting 2024 Data Science Salaries Using Linear Regression](https://github.com/Chrstsean/ELEC303_PROTACIO/blob/main/ELEC303_3C/PROTACIO/Protacio_ChristianOwen_SalaryPrediction.ipynb)
